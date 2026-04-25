@@ -144,7 +144,7 @@ HTML_TEMPLATE = '''
 <body>
     <div class="container">
         <div class="header">
-            <h1>💜 Lavanda Sky - Серверная панель</h1>
+            <h1>Серверная панель</h1>
             <p>Автопроверка каждые 10 минут • Без лимитов при просмотре</p>
         </div>
         
