@@ -1,1 +1,1 @@
-web: gunicorn wb_server_app:app
+web: python wb_server_app.py
